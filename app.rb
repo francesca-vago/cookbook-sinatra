@@ -17,5 +17,5 @@ end
 # end
 
 get '/' do
-  'Hello world!'
+  'My first Sinatra app'
 end
